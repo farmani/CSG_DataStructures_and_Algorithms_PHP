@@ -1,11 +1,11 @@
 # Chapter 1
 
-Data Structure | Arrays | Sets    | Ordered Arrays
--------------- |--------|---------| -------------
-Reading | O(1)   | O(1)    | O(1)
-Searching | O(n)   | O(n)    | O(logn)
-Insertion | O(n+1) | O(2n+1) | O(n+logn)
-Deletion | O(n)   | O(n)    | O(n)
+| Data Structure | Arrays | Sets    |
+|----------------|--------|---------|
+| Reading        | O(1)   | O(1)    |
+| Searching      | O(n)   | O(n)    |
+| Insertion      | O(n+1) | O(2n+1) |
+|  Deletion      | O(n)   | O(n)    |
 
 ## Why Data Structures Matter
 - One important measure is code maintainability. Maintainability of code involves aspects such as the readability, organization, and modularity of one’s code.
