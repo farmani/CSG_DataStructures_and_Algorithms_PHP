@@ -5,7 +5,7 @@
 | Reading        | O(1)   | O(1)    | O(1)           |
 | Searching      | O(n)   | O(n)    | O(log n)       |
 | Insertion      | O(n+1) | O(2n+1) | O(n+log n)     |
-|  Deletion      | O(n)   | O(n)    | O(n)           |
+| Deletion       | O(n)   | O(n)    | O(n)           |
 
 ## Why Algorithms Matter
 - An algorithm is simply a set of instructions for completing a specific task.
