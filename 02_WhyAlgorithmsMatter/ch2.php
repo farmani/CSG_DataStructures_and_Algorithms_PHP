@@ -1,6 +1,6 @@
 <?php
 
-function linear_search($array, $search_value): ?int
+function linearSearch($array, $search_value): ?int
 {
     // We iterate through every element in the array:
     foreach ($array as $index => $element) {
@@ -18,7 +18,7 @@ function linear_search($array, $search_value): ?int
     return null;
 }
 
-function binary_search($array, $search_value): ?int
+function binarySearch($array, $search_value): ?int
 {
     // First, we establish the lower and upper bounds of where the value
     // we're searching for can be. To start, the lower bound is the first

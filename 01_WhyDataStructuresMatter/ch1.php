@@ -1,6 +1,6 @@
 <?php
 
-function print_numbers_version_one() {
+function printNumbersVersionOne() {
     $number = 2;
     while ($number <= 100) {
         # If number is even, print it:
@@ -12,7 +12,7 @@ function print_numbers_version_one() {
     }
 }
 
-function print_numbers_version_two() {
+function printNumbersVersionTwo() {
     $number = 2;
     while ($number <= 100) {
         echo $number;
