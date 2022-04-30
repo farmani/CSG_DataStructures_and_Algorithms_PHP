@@ -18,7 +18,7 @@
 - Selection Sort takes `N^2 / 2` steps in all cases, from worst to average to best-case scenarios. This is because Selection Sort doesn’t have any mechanism for ending a pass-through early at any point. Each pass-through compares every value to the right of the chosen index no matter what.
 - If you have reason to assume you’ll be dealing with data that is mostly sorted, Insertion Sort will be a better choice. If you have reason to assume you’ll be dealing with data that is mostly sorted in reverse order, Selection Sort will be faster. If you have no idea what the data will be like, that’s essentially an average case, and both will be equal.
 - If the arrays are different sizes—say N and M—we’d say that the efficiency of this function is `O(N * M)`.
-## How
+## Summary
 - Insertion sort was introduced
 - Speeds:
   - All `O(N^2)`
